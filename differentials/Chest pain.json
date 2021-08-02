@@ -1,0 +1,21 @@
+{
+  "symptom_name": "Chest Pain",
+  "Differentials": [
+    {
+      "differential_name": "Stable Angina",
+      "differential_symptoms": [
+        "Pain < 15 mins",
+        "Relieves with rest",
+        "Pain with activity"
+      ]
+    },
+    {
+      "differential_name": "Unstable Angina",
+      "differential_symptoms": [
+        "Pain > 15mins",
+        "Pain at rest",
+        "No change with rest"
+      ]
+    }
+  ]
+}
